@@ -1,4 +1,4 @@
-# publicMintTool
+# PendingGasTool
 
 This is a public mint tool for https://etherscan.io/address/0x984f7b398d577c0adde08293a53ae9d3b6b7a5c5
 
